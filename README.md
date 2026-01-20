@@ -1,7 +1,5 @@
 # Project 001 – HTML & CSS Fundamentals
 
-[https://gabriellecalabria.github.io/projeto001/android.html]
-
 This project was developed as part of my **HTML5 and CSS3 studies**, focusing on building a solid foundation in web structure, styling, and layout.
 
 It represents my first steps into front-end development, applying concepts learned through practice.
@@ -20,7 +18,14 @@ It represents my first steps into front-end development, applying concepts learn
 ## 🛠️ Technologies used
 
 - HTML5  
-- CSS3  
+- CSS3
+
+---
+
+## 🌐 Deployment
+
+This project was deployed using **GitHub Pages** to practice publishing and maintaining a live website.
+[https://gabriellecalabria.github.io/projeto001/android.html]
 
 ---
 
@@ -37,5 +42,7 @@ It represents my first steps into front-end development, applying concepts learn
 
 This project is part of my learning journey as a **career switcher** transitioning into front-end and UX/UI-related roles.  
 Future updates may be added as my skills evolve. 
+
+
 
  
