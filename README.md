@@ -13,6 +13,8 @@ It represents my first steps into front-end development, applying concepts learn
 - Understand page organization and hierarchy  
 - Build confidence working with real files and layouts  
 
+
+<img src= "
 ---
 
 ## 🛠️ Technologies used
@@ -25,7 +27,7 @@ It represents my first steps into front-end development, applying concepts learn
 ## 🌐 Deployment
 
 This project was deployed using **GitHub Pages** to practice publishing and maintaining a live website.
-[https://gabriellecalabria.github.io/projeto001/android.html]
+[https://gabriellecalabria.github.io/html-css-layout/android.html]
 
 ---
 
