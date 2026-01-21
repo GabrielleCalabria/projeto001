@@ -4,6 +4,9 @@ This project was developed as part of my **HTML5 and CSS3 studies**, focusing on
 
 It represents my first steps into front-end development, applying concepts learned through practice.
 
+## 📸 Screenshot
+
+![Homepage screenshot](./assets/project-screenshot.png)
 ---
 
 ## 🎯 Project goals
@@ -13,8 +16,6 @@ It represents my first steps into front-end development, applying concepts learn
 - Understand page organization and hierarchy  
 - Build confidence working with real files and layouts  
 
-
-<img src= "
 ---
 
 ## 🛠️ Technologies used
